@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm an engineer at Hashicorp. Previously I worked at Vanguard, Expedia, Fidelity, and some financial product companies.
+
+    💬 Ask me about: Hashicorp Vault/Consul/Nomad, Cloud transformations
+    😄 Pronouns: he/him
+    🌱 I’m currently learning: Consul, Nomad, Openshift deepdown
+    👯 I’m looking to collaborate on: New cloud automation ideas
+
 <!--
 **basingh/basingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
