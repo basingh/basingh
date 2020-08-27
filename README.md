@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an engineer at Hashicorp. Previously I worked at Vanguard, Expedia, Fidelity, and some financial product companies.
+I'm an engineer at Hashicorp. Previously worked at Vanguard, Expedia, Fidelity, and some financial product companies.
 
     💬 Ask me about: Hashicorp Vault/Consul/Nomad, Cloud transformations
     😄 Pronouns: he/him
